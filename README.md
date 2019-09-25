@@ -1,2 +1,1 @@
-Lunch and Learn
-Introduccion a RX
+Updated Examples for Talk in Android Devs Buenos Aires
